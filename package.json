@@ -1,0 +1,30 @@
+{
+  "name": "unpad",
+  "version": "1.0.0",
+  "description": "babel test utility for unpadding inline code blocks",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/capaj/unpad.git"
+  },
+  "keywords": [
+    "padding"
+  ],
+  "author": "capajj@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/capaj/unpad/issues"
+  },
+  "ava": {
+    "files": [
+      "spec.js"
+    ]
+  },
+  "homepage": "https://github.com/capaj/unpad#readme",
+  "devDependencies": {
+    "ava": "^0.16.0"
+  }
+}
