@@ -1,7 +1,7 @@
 # unpad
 babel util unpad taken out into separate module
 
-# usage
+## usage
 
 ```js
 import unpad from 'unpad';
